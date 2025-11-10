@@ -104,6 +104,8 @@ gnome-shell-extension-gsconnect
 gnome-shell-extension-legacy-theme-auto-switcher
 gnome-shell-extension-pano
 gnome-shell-extensions
+gnome-shell-extension-desktop-icons-ng
+gnome-shell-extension-gnome-ui-tune
 
 # Input Devices
 #xf86-input-elographics
