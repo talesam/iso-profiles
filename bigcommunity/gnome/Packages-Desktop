@@ -252,7 +252,7 @@ usbasp-udev
 usbtinyisp-udev
 
 # Utilities
-comm-gnome-config
+comm-gnome-config2
 #comm-settings-gnome
 comm-wallpapers-gnome
 ds4-disable-led
